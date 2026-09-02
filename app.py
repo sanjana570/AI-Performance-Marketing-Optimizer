@@ -26,6 +26,9 @@ load_dotenv()
 
 api_key = os.getenv("GEMINI_API_KEY")
 
+if not api_key and "GEMINI_API_KEY" in st.secrets:
+    api_key = st.secrets["GEMINI_API_KEY"]
+
 if not api_key:
     st.error(
         "GEMINI_API_KEY was not found. "
