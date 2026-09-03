@@ -8,24 +8,15 @@
 
 👉 \[Try the AI Performance Marketing Optimizer](https://ai-performance-marketing-optimizer.streamlit.app/)
 
-\## 📸 Application Screenshots
+## 📸 Application Screenshots
 
+### Interactive Campaign Simulator
 
+<img src="./screenshots/01_campaign_simulator.png" alt="Interactive Campaign Simulator" width="900">
 
-\### Interactive Campaign Simulator
+### AI Recommendation
 
-
-
-!\[Interactive Campaign Simulator](screenshots/01\_campaign\_simulator.png)
-
-
-
-\### AI Recommendation
-
-
-
-!\[AI Recommendation](screenshots/02\_ai\_recommendation.png)
-
+<img src="./screenshots/02_ai_recommendation.png" alt="AI Recommendation" width="900">
 
 
 An interactive AI-powered performance marketing simulator and campaign optimization tool built with Python, Streamlit, and Google Gemini.
